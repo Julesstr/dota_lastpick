@@ -1,18 +1,10 @@
 import requests
 from urllib.parse import urljoin
-import time
 import pandas as pd
 import json
-import sys
-
+from dotenv import load_dotenv
+import os
 from datetime import datetime, timedelta
-
-# TODO Heropool selection
-# TODO Bracket selection
-# TODO Enemies, allies, or both
-# ? Easy: guess against 5 enemy heroes
-# ? Intermediate: guess against 5 enemy heroes and with 4 allied heroes
-# ? Hard: guess agaist 4 enenemy heroes, an enemy lastpick based on your allied heroes, and allied heroes
 
 
 
@@ -239,17 +231,14 @@ def generate_heroes_per_position(position_data):
     
     
     
-
-
-
     return position_dict
 
         
         
-
 def main(): 
+    load_dotenv()
+    api_token = os.getenv("API_TOKEN")
     cache_path = "./server/cache/"
-    api_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJTdWJqZWN0IjoiMWQ1NDAxYTYtNzE5Mi00MmUwLTk4MDctOTdhYzdkMzEzNDNhIiwiU3RlYW1JZCI6IjIxNzU5NDExMCIsIm5iZiI6MTczNzA1MTg5OCwiZXhwIjoxNzY4NTg3ODk4LCJpYXQiOjE3MzcwNTE4OTgsImlzcyI6Imh0dHBzOi8vYXBpLnN0cmF0ei5jb20ifQ.vwr-uQVMttXKJIWgP7Sp5fT_fwrhSSON4T9Nv4cIgYQ"
     brackets = "[LEGEND_ANCIENT, DIVINE_IMMORTAL]"
 
     data = Data(api_token, cache_path)
