@@ -1,0 +1,512 @@
+{
+    "data": {
+        "heroStats": {
+            "stats": [
+                {
+                    "heroId": 1,
+                    "matchCount": 130
+                },
+                {
+                    "heroId": 2,
+                    "matchCount": 103
+                },
+                {
+                    "heroId": 3,
+                    "matchCount": 1393
+                },
+                {
+                    "heroId": 4,
+                    "matchCount": 52
+                },
+                {
+                    "heroId": 5,
+                    "matchCount": 10905
+                },
+                {
+                    "heroId": 6,
+                    "matchCount": 77
+                },
+                {
+                    "heroId": 7,
+                    "matchCount": 1525
+                },
+                {
+                    "heroId": 8,
+                    "matchCount": 69
+                },
+                {
+                    "heroId": 9,
+                    "matchCount": 633
+                },
+                {
+                    "heroId": 10,
+                    "matchCount": 224
+                },
+                {
+                    "heroId": 11,
+                    "matchCount": 173
+                },
+                {
+                    "heroId": 12,
+                    "matchCount": 17
+                },
+                {
+                    "heroId": 13,
+                    "matchCount": 53
+                },
+                {
+                    "heroId": 14,
+                    "matchCount": 9632
+                },
+                {
+                    "heroId": 15,
+                    "matchCount": 98
+                },
+                {
+                    "heroId": 16,
+                    "matchCount": 30
+                },
+                {
+                    "heroId": 17,
+                    "matchCount": 25
+                },
+                {
+                    "heroId": 18,
+                    "matchCount": 213
+                },
+                {
+                    "heroId": 19,
+                    "matchCount": 634
+                },
+                {
+                    "heroId": 20,
+                    "matchCount": 4396
+                },
+                {
+                    "heroId": 21,
+                    "matchCount": 676
+                },
+                {
+                    "heroId": 22,
+                    "matchCount": 3561
+                },
+                {
+                    "heroId": 23,
+                    "matchCount": 74
+                },
+                {
+                    "heroId": 25,
+                    "matchCount": 1220
+                },
+                {
+                    "heroId": 26,
+                    "matchCount": 18379
+                },
+                {
+                    "heroId": 27,
+                    "matchCount": 9324
+                },
+                {
+                    "heroId": 28,
+                    "matchCount": 45
+                },
+                {
+                    "heroId": 29,
+                    "matchCount": 105
+                },
+                {
+                    "heroId": 30,
+                    "matchCount": 12030
+                },
+                {
+                    "heroId": 31,
+                    "matchCount": 29037
+                },
+                {
+                    "heroId": 32,
+                    "matchCount": 215
+                },
+                {
+                    "heroId": 33,
+                    "matchCount": 416
+                },
+                {
+                    "heroId": 34,
+                    "matchCount": 1070
+                },
+                {
+                    "heroId": 35,
+                    "matchCount": 1066
+                },
+                {
+                    "heroId": 36,
+                    "matchCount": 57
+                },
+                {
+                    "heroId": 37,
+                    "matchCount": 5711
+                },
+                {
+                    "heroId": 38,
+                    "matchCount": 39
+                },
+                {
+                    "heroId": 39,
+                    "matchCount": 364
+                },
+                {
+                    "heroId": 40,
+                    "matchCount": 5169
+                },
+                {
+                    "heroId": 41,
+                    "matchCount": 147
+                },
+                {
+                    "heroId": 42,
+                    "matchCount": 47
+                },
+                {
+                    "heroId": 43,
+                    "matchCount": 96
+                },
+                {
+                    "heroId": 44,
+                    "matchCount": 134
+                },
+                {
+                    "heroId": 45,
+                    "matchCount": 3934
+                },
+                {
+                    "heroId": 46,
+                    "matchCount": 37
+                },
+                {
+                    "heroId": 47,
+                    "matchCount": 282
+                },
+                {
+                    "heroId": 48,
+                    "matchCount": 48
+                },
+                {
+                    "heroId": 49,
+                    "matchCount": 97
+                },
+                {
+                    "heroId": 50,
+                    "matchCount": 4187
+                },
+                {
+                    "heroId": 51,
+                    "matchCount": 10577
+                },
+                {
+                    "heroId": 52,
+                    "matchCount": 424
+                },
+                {
+                    "heroId": 53,
+                    "matchCount": 1105
+                },
+                {
+                    "heroId": 54,
+                    "matchCount": 92
+                },
+                {
+                    "heroId": 55,
+                    "matchCount": 33
+                },
+                {
+                    "heroId": 56,
+                    "matchCount": 136
+                },
+                {
+                    "heroId": 57,
+                    "matchCount": 1072
+                },
+                {
+                    "heroId": 58,
+                    "matchCount": 1056
+                },
+                {
+                    "heroId": 59,
+                    "matchCount": 294
+                },
+                {
+                    "heroId": 60,
+                    "matchCount": 49
+                },
+                {
+                    "heroId": 61,
+                    "matchCount": 8
+                },
+                {
+                    "heroId": 62,
+                    "matchCount": 1807
+                },
+                {
+                    "heroId": 63,
+                    "matchCount": 716
+                },
+                {
+                    "heroId": 64,
+                    "matchCount": 9300
+                },
+                {
+                    "heroId": 65,
+                    "matchCount": 768
+                },
+                {
+                    "heroId": 66,
+                    "matchCount": 444
+                },
+                {
+                    "heroId": 67,
+                    "matchCount": 196
+                },
+                {
+                    "heroId": 68,
+                    "matchCount": 5408
+                },
+                {
+                    "heroId": 69,
+                    "matchCount": 318
+                },
+                {
+                    "heroId": 70,
+                    "matchCount": 106
+                },
+                {
+                    "heroId": 71,
+                    "matchCount": 1325
+                },
+                {
+                    "heroId": 72,
+                    "matchCount": 1234
+                },
+                {
+                    "heroId": 73,
+                    "matchCount": 913
+                },
+                {
+                    "heroId": 74,
+                    "matchCount": 868
+                },
+                {
+                    "heroId": 75,
+                    "matchCount": 6732
+                },
+                {
+                    "heroId": 76,
+                    "matchCount": 47
+                },
+                {
+                    "heroId": 77,
+                    "matchCount": 27
+                },
+                {
+                    "heroId": 78,
+                    "matchCount": 38
+                },
+                {
+                    "heroId": 79,
+                    "matchCount": 5732
+                },
+                {
+                    "heroId": 80,
+                    "matchCount": 18
+                },
+                {
+                    "heroId": 81,
+                    "matchCount": 45
+                },
+                {
+                    "heroId": 82,
+                    "matchCount": 9
+                },
+                {
+                    "heroId": 83,
+                    "matchCount": 2223
+                },
+                {
+                    "heroId": 84,
+                    "matchCount": 14398
+                },
+                {
+                    "heroId": 85,
+                    "matchCount": 4367
+                },
+                {
+                    "heroId": 86,
+                    "matchCount": 7261
+                },
+                {
+                    "heroId": 87,
+                    "matchCount": 9000
+                },
+                {
+                    "heroId": 88,
+                    "matchCount": 2758
+                },
+                {
+                    "heroId": 89,
+                    "matchCount": 132
+                },
+                {
+                    "heroId": 90,
+                    "matchCount": 388
+                },
+                {
+                    "heroId": 91,
+                    "matchCount": 2634
+                },
+                {
+                    "heroId": 92,
+                    "matchCount": 169
+                },
+                {
+                    "heroId": 93,
+                    "matchCount": 315
+                },
+                {
+                    "heroId": 94,
+                    "matchCount": 82
+                },
+                {
+                    "heroId": 95,
+                    "matchCount": 23
+                },
+                {
+                    "heroId": 96,
+                    "matchCount": 99
+                },
+                {
+                    "heroId": 97,
+                    "matchCount": 2450
+                },
+                {
+                    "heroId": 98,
+                    "matchCount": 157
+                },
+                {
+                    "heroId": 99,
+                    "matchCount": 276
+                },
+                {
+                    "heroId": 100,
+                    "matchCount": 4396
+                },
+                {
+                    "heroId": 101,
+                    "matchCount": 2040
+                },
+                {
+                    "heroId": 102,
+                    "matchCount": 10189
+                },
+                {
+                    "heroId": 103,
+                    "matchCount": 1095
+                },
+                {
+                    "heroId": 104,
+                    "matchCount": 60
+                },
+                {
+                    "heroId": 105,
+                    "matchCount": 2791
+                },
+                {
+                    "heroId": 106,
+                    "matchCount": 62
+                },
+                {
+                    "heroId": 107,
+                    "matchCount": 492
+                },
+                {
+                    "heroId": 108,
+                    "matchCount": 40
+                },
+                {
+                    "heroId": 109,
+                    "matchCount": 240
+                },
+                {
+                    "heroId": 110,
+                    "matchCount": 3531
+                },
+                {
+                    "heroId": 111,
+                    "matchCount": 5519
+                },
+                {
+                    "heroId": 112,
+                    "matchCount": 1999
+                },
+                {
+                    "heroId": 113,
+                    "matchCount": 37
+                },
+                {
+                    "heroId": 114,
+                    "matchCount": 324
+                },
+                {
+                    "heroId": 119,
+                    "matchCount": 4463
+                },
+                {
+                    "heroId": 120,
+                    "matchCount": 37
+                },
+                {
+                    "heroId": 121,
+                    "matchCount": 3201
+                },
+                {
+                    "heroId": 123,
+                    "matchCount": 3122
+                },
+                {
+                    "heroId": 126,
+                    "matchCount": 52
+                },
+                {
+                    "heroId": 128,
+                    "matchCount": 2080
+                },
+                {
+                    "heroId": 129,
+                    "matchCount": 121
+                },
+                {
+                    "heroId": 131,
+                    "matchCount": 3324
+                },
+                {
+                    "heroId": 135,
+                    "matchCount": 731
+                },
+                {
+                    "heroId": 136,
+                    "matchCount": 3138
+                },
+                {
+                    "heroId": 137,
+                    "matchCount": 45
+                },
+                {
+                    "heroId": 138,
+                    "matchCount": 1031
+                },
+                {
+                    "heroId": 145,
+                    "matchCount": 201
+                }
+            ]
+        }
+    }
+}
